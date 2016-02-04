@@ -1,4 +1,7 @@
-// main.cpp
+// File: main.cpp
+// Name: Jacob Jolly
+// Class: CSCI 2312
+
 #include <iostream>
 #include <fstream>
 #include <sstream>
